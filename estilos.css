@@ -1,0 +1,16 @@
+nav{
+    float: inline-start;
+    margin: 20px;
+    padding: 20px;
+    background-color: #D6AFDC;
+}
+
+a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: blue;
+}
